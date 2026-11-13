@@ -1,1 +1,1 @@
-{"version": "0.10.1", "fichier": "passerelle-0.10.1.maj", "notes": "Dates et montants jamais modifiés dans le programme d'amélioration ; mises à jour depuis le dépôt public", "requiert_lanceur": 1}
+{"version": "0.10.2", "fichier": "passerelle-0.10.2.maj", "notes": "Modèle de détection compact et plus léger (même qualité, mesurée sur les bancs) ; langues autres que l'alphabet latin téléchargées à la demande ; lecture des .doc, .odt, .rtf et des PDF scannés.", "requiert_lanceur": 1}
